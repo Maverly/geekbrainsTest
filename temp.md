@@ -84,3 +84,4 @@ git checkout <имя ветки>
  ```
 ## 11. Документация по GIT.
 https://git-scm.com/ru/v2
+wasdas
